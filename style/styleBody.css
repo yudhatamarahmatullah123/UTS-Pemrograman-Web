@@ -1,0 +1,36 @@
+body {
+    background: url("../images/bg.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: yellowgreen;
+}
+
+h3 {
+    color: yellowgreen;
+}
+
+p {
+    color: yellow;
+}
+
+a {
+    color: aqua;
+}
+
+ul {
+    color: whitesmoke;
+}
+
+form {
+    color: rgb(48, 248, 92);
+}
+
+table {
+    color: chocolate;
+}
+
+label {
+    color: aliceblue;
+}
